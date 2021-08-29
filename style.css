@@ -1,0 +1,12 @@
+
+/* font-size siempre viene con line-height */
+p{
+    color: blueviolet;
+    font-size: 34px;
+    line-height: 30px;
+}
+
+img{
+    height: 400px;
+    width: 200px;
+}
